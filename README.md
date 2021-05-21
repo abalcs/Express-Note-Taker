@@ -1,5 +1,9 @@
 # Note-Taker
 
+## Please note: original repo exists at 
+
+- [Original Repo w/ Commit History](https://github.com/abalcs/Note-Taker)
+
 # Table of Contents
 
 - [Description](#description)
